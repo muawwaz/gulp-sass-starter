@@ -1,11 +1,5 @@
 # gulp-scss-starter
 
-![License](https://img.shields.io/github/license/andreyalexeich/gulp-scss-starter)
-![GitHub stars](https://img.shields.io/github/stars/andreyalexeich/gulp-scss-starter.svg?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/andreyalexeich/gulp-scss-starter.svg?style=social)<br>
-<a href="https://qiwi.com/n/ANDREYALEXEICH"><img src="https://img.shields.io/badge/%D0%97%D0%B0%D0%B4%D0%BE%D0%BD%D0%B0%D1%82%D1%8C%20%D0%BD%D0%B0%20%D0%BF%D0%B8%D0%B2%D0%BE-Qiwi-orange?style=for-the-badge&logo=qiwi"></a>
-
-
 ## :fire: Features
 * class naming according to [BEM](https://ru.bem.info/)
 * used BEM structure
@@ -172,11 +166,8 @@ You need to remove ```fill="none"``` and ```fill="#1B1B1D"```. It should turn ou
     * to include style files of libraries, import them into the file ```src/styles/vendor/_libs.scss```
     * JS-files and style files of libraries cannot be changed independently
 
-## :point_right: Need SCSS + Pug?
-Use [this](https://github.com/andreyalexeich/gulp-pug-starter/) build.
-
 ## :yellow_heart: Do you like the project?
-Report [bugs](https://github.com/andreyalexeich/gulp-scss-starter/issues), put a star in the upper right corner, [donate](https://qiwi.com/n/ANDREYALEXEICH) me for beer :beer:
+Report [bugs](https://github.com/muawwaz/gulp-scss-starter/issues), put a star in the upper right corner
 
 ## :envelope: Contacts
-For all questions, write to [Telegram](https://t.me/andreyalexeich)
+For all questions, write to [Telegram](https://t.me/muawwaz)
